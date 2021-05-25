@@ -5,3 +5,6 @@
   - [https://www.archive.org](https://www.archive.org)
   - [https://www.citationsy.com](https://www.citationsy.com)
   - [https://www.core.ac.uk](https://www.core.ac.uk)
+ 3. **opensource project**
+  - [https://opensource.microsoft.com/projects](https://opensource.microsoft.com/projects/)
+  - [https://opensource.google/projects/explore/featured](https://opensource.google/projects/explore/featured)
