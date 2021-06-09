@@ -5,8 +5,5 @@ SHP = 14 sum highest price
 🔨%D = 3-period Moving average of %K : it mean average past %K
 
 #### (MACD)Moving Average Convergence Divergence
-🔨MACD = 12EMA - 26EMA : 🟦 
-🔨signal line = 9EMA : 🟨
-
 🔨MACD = 12EMA - 26EMA : 🟦  
 🔨signal line = 9EMA : 🟨
