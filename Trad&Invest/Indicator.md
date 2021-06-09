@@ -1,4 +1,4 @@
-#### (KD J )Stochastic Oscillator
+####(KD J )Stochastic Oscillator
 SLP = sum lowest price;
 SHP = 14 sum highest price
 🔨%K = (current price - 14 SLP)/(SHP -14 SLP) and multi with 100
