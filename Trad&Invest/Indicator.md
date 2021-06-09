@@ -1,6 +1,6 @@
 #### (KD J )Stochastic Oscillator
-SLP = sum lowest price;
-SHP = 14 sum highest price
+> SLP = sum lowest price;
+>SHP = 14 sum highest price
 🔨%K = (current price - 14 SLP)/(SHP -14 SLP) and multi with 100
 🔨%D = 3-period Moving average of %K : it mean average past %K
 
