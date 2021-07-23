@@ -9,5 +9,5 @@
  4. **Deep learning**
   - [https://www.fast.ai/](https://www.fast.ai/)
 > free compute for develop and train
-> [https://www.kaggle.com/](https://www.kaggle.com/)
-> [https://colab.research.google.com/](https://colab.research.google.com/)
+> - [https://www.kaggle.com/](https://www.kaggle.com/)
+> - [https://colab.research.google.com/](https://colab.research.google.com/)
