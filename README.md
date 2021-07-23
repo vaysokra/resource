@@ -8,6 +8,5 @@
   - [https://opensource.facebook.com/](https://opensource.facebook.com/)
  4. **Deep learning**
   - [https://www.fast.ai/](https://www.fast.ai/)
-          
-          free compute
-          - [https://www.fast.ai/](https://www.fast.ai/)
+> free compute for develop and train
+> - [https://www.kaggle.com/](https://www.kaggle.com/)
