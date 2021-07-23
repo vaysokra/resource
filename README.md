@@ -8,3 +8,5 @@
   - [https://opensource.facebook.com/](https://opensource.facebook.com/)
  4. **Deep learning**
   - [https://www.fast.ai/](https://www.fast.ai/)
+ 
+   free compute
