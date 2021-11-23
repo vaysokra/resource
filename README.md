@@ -11,3 +11,7 @@
 > free compute for develop and train
 > - [https://www.kaggle.com/](https://www.kaggle.com/)
 > - [https://colab.research.google.com/](https://colab.research.google.com/)
+ 5. **Book**
+  - adam media or (suffix)_101
+  - no starch press 
+  - **modern principle of economic.pdf**
