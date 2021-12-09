@@ -15,3 +15,4 @@
   - adam media or (suffix)_101
   - no starch press 
   - **modern principle of economic.pdf**
+  - https://www.simonandschuster.com/search/books/_/N-/Ntt-101?Nao=0
