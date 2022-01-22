@@ -1,2 +1,4 @@
 ### Pine Script
-> bar data : open high low close
+- > bar candlestick : open high low close
+- > bar state : barstate.islast
+- > label : label.set_text()
