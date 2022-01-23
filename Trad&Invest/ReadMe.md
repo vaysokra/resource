@@ -4,3 +4,4 @@
 - > label : label.set_text()
 - > non value or null : na
 - > highest lowest : highest(high,15) highest(15) lowest(low,15) lowest(15)
+- > overbought oversold line : hline(price=70) hline(price=30)
