@@ -1,4 +1,4 @@
-### Pine Script
+### Pine Script (@version=4)
 - > bar candlestick : open high low close volume
 - > bar state : barstate.islast
 - > label : label.set_text()
