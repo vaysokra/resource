@@ -1,4 +1,4 @@
-#### 1pip
+#### 1pip (have error,for detail check it [https://pepperstone.com/en/education/what-is-pip-value/])
 ```
 1lot = 100,000 currency unit 
 if you long 1lot of pair xauusd : 1820.90 
