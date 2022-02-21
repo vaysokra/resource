@@ -6,8 +6,9 @@
   - [https://opensource.microsoft.com/projects](https://opensource.microsoft.com/projects/)
   - [https://opensource.google/projects/explore/featured](https://opensource.google/projects/explore/featured)
   - [https://opensource.facebook.com/](https://opensource.facebook.com/)
- 4. **Deep learning**
+ 4. **Deep learning / Machine Learning**
   - [https://www.fast.ai/](https://www.fast.ai/)
+  - [https://machinelearningmastery.com](https://machinelearningmastery.com)
 > free compute for develop and train
 > - [https://www.kaggle.com/](https://www.kaggle.com/)
 > - [https://colab.research.google.com/](https://colab.research.google.com/)
